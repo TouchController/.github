@@ -12,6 +12,12 @@ TouchController 是一个 Minecraft 模组，能够为 Minecraft Java 版提供�
 - <https://gitee.com/fifth_light/TouchController>
 - <https://www.curseforge.com/minecraft/mc-mods/touchcontroller>
 
+## 仓库
+
+- 主仓库：[TouchController](https://github.com/TouchController/TouchController)
+- Wiki：[TouchControllerWiki](https://github.com/TouchController/TouchControllerWiki)
+- 美术仓库：[TouchControllerMap](https://github.com/TouchController/TouchControllerMap)
+
 ## 关于我们
 
 - 作者：[@fifth_light](https://github.com/fifth-light)

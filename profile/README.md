@@ -6,7 +6,7 @@ TouchController 是一个 Minecraft 模组，能够为 Minecraft Java 版提供�
 
 ## 链接
 
-- <https://github.com/TouchController>
+- <https://github.com/TouchController/TouchController>
 - <https://www.mcmod.cn/class/17432.html>
 - <https://modrinth.com/mod/touchcontroller>
 - <https://gitee.com/fifth_light/TouchController>

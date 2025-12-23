@@ -1,28 +1,12 @@
-# TouchController
+# TouchController 团队
 
-TouchController 是一个 Minecraft 模组，能够为 Minecraft Java 版提供基岩版风格的触控，并且拥有可高度自定义的控件布局、各种自定义设置。
-
-目前正在开发中……
-
-## 链接
-
-- <https://github.com/TouchController/TouchController>
-- <https://www.mcmod.cn/class/17432.html>
-- <https://modrinth.com/mod/touchcontroller>
-- <https://gitee.com/fifth_light/TouchController>
-- <https://www.curseforge.com/minecraft/mc-mods/touchcontroller>
+TouchController 模组的开发团队，但同时也在开发其他项目，可以查看组织的[仓库列表](https://github.com/orgs/TouchController/repositories)。
 
 ## 仓库
 
-- 主仓库：[TouchController](https://github.com/TouchController/TouchController)
-- Wiki：[TouchControllerWiki](https://github.com/TouchController/TouchControllerWiki)
-- 美术仓库：[TouchControllerMap](https://github.com/TouchController/TouchControllerMap)
+- [TouchController](https://github.com/TouchController/TouchController)：组织下的主要仓库，将来会变为 Monorepo 并包含多个项目，当前正在[临时仓库](https://github.com/TouchController/TouchController-Monorepo)进行项目迁移，迁移后项目将使用 bazel 作为构建系统。
+- [E1epack](https://github.com/TouchController/E1epack)：由 [@白象_elephant](https://github.com/WhiteElephant-abc) 维护的数据包仓库，是一个包含多个数据包的 Monorepo，仓库名称出自 [@fengzhou0w0](https://github.com/fengzhou0w0) 的大脑。项目同样使用 bazel 作为构建系统，由 [@fifth_light](https://github.com/fifth-light) 提供技术支持。
 
-## 关于我们
+## 成员
 
-- 作者：[@fifth_light](https://github.com/fifth-light)
-- 作者：[@bukeyu](https://github.com/bukeyu)
-- 美术：[@fengzhou0w0](https://github.com/fengzhou0w0)
-- 设计、Wiki：[@白象_elephant](https://github.com/WhiteElephant-abc)
-- 美术、Wiki：[@不想取名的阿peng](https://github.com/apx201)
-- 吉祥物：[@Handsomeprin](https://github.com/Handsomeprin)
+[@fifth_light](https://github.com/fifth-light) [@bukeyu](https://github.com/bukeyu) [@fengzhou0w0](https://github.com/fengzhou0w0) [@白象_elephant](https://github.com/WhiteElephant-abc) [@不想取名的阿peng](https://github.com/apx201) [@Handsomeprin](https://github.com/Handsomeprin)

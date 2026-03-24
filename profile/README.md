@@ -17,8 +17,8 @@ The development team for the TouchController mod, but also working on other proj
 
 ## Repositories
 
-- [TouchController](https://github.com/TouchController/TouchController): The main repository under the organization. It will become a Monorepo containing multiple projects in the future. Currently, project migration is being carried out in a [temporary repository](https://github.com/TouchController/TouchController-Monorepo). After migration, the project will use bazel as the build system.
-- [E1epack](https://github.com/TouchController/E1epack): A datapack repository maintained by [@white_elephant](https://github.com/WhiteElephant-abc). It is a Monorepo containing multiple datapacks. The repository name originated from the brain of [@fengzhou0w0](https://github.com/fengzhou0w0). The project also uses bazel as the build system, with technical support provided by [@fifth_light](https://github.com/fifth-light).
+- [TouchController](https://github.com/TouchController/TouchController): The main repository under the organization. It is a Monorepo containing multiple projects and uses Bazel as the build system.
+- [E1epack](https://github.com/TouchController/E1epack): A datapack repository maintained by [@white_elephant](https://github.com/WhiteElephant-abc). It is a Monorepo containing multiple datapacks and also uses Bazel as the build system.
 
 ## Members
 
